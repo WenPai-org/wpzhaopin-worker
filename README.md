@@ -1,2 +1,2 @@
-# wpzhaopin-worker
-文派招聘推送器（WPZhaoPin Worker），专为解决人才及职位推送而构建，对于公司企业可助您找到需要的人，对于 WordPress 个人用户及开发者不要错过任何工作机会。
+# WPFonts
+文派字体（WPFonts.com）可为 WordPress 系统带来更优雅舒适的中文网页字体服务，这也是 Windfonts 的官方插件。
